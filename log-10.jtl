@@ -1,0 +1,101 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1731763194584,279,HTTP Request,200,OK,Thread Group 1-2,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,275,0,27
+1731763194583,279,HTTP Request,200,OK,Thread Group 1-1,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,275,0,27
+1731763194676,232,HTTP Request,200,OK,Thread Group 1-3,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,232,0,1
+1731763194776,208,HTTP Request,200,OK,Thread Group 1-4,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,208,0,1
+1731763194876,213,HTTP Request,200,OK,Thread Group 1-5,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,213,0,1
+1731763194976,205,HTTP Request,200,OK,Thread Group 1-6,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,205,0,1
+1731763195075,209,HTTP Request,200,OK,Thread Group 1-7,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,209,0,1
+1731763195175,214,HTTP Request,200,OK,Thread Group 1-8,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,213,0,1
+1731763195275,224,HTTP Request,200,OK,Thread Group 1-9,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,224,0,1
+1731763195375,211,HTTP Request,200,OK,Thread Group 1-10,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,211,0,1
+1731763195475,210,HTTP Request,200,OK,Thread Group 1-11,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,210,0,1
+1731763195575,211,HTTP Request,200,OK,Thread Group 1-12,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,211,0,1
+1731763195676,207,HTTP Request,200,OK,Thread Group 1-13,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,207,0,1
+1731763195774,227,HTTP Request,200,OK,Thread Group 1-14,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,227,0,1
+1731763195874,217,HTTP Request,200,OK,Thread Group 1-15,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,217,0,0
+1731763195976,217,HTTP Request,200,OK,Thread Group 1-16,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,217,0,1
+1731763196075,216,HTTP Request,200,OK,Thread Group 1-17,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,216,0,1
+1731763196175,222,HTTP Request,200,OK,Thread Group 1-18,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,222,0,0
+1731763196275,222,HTTP Request,200,OK,Thread Group 1-19,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,222,0,1
+1731763196376,207,HTTP Request,200,OK,Thread Group 1-20,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,207,0,0
+1731763196474,214,HTTP Request,200,OK,Thread Group 1-21,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,214,0,1
+1731763196575,220,HTTP Request,200,OK,Thread Group 1-22,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,220,0,1
+1731763196675,218,HTTP Request,200,OK,Thread Group 1-23,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,218,0,1
+1731763196776,212,HTTP Request,200,OK,Thread Group 1-24,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,211,0,0
+1731763196876,208,HTTP Request,200,OK,Thread Group 1-25,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,208,0,0
+1731763196976,210,HTTP Request,200,OK,Thread Group 1-26,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,210,0,1
+1731763197076,209,HTTP Request,200,OK,Thread Group 1-27,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,209,0,1
+1731763197176,213,HTTP Request,200,OK,Thread Group 1-28,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,213,0,0
+1731763197274,216,HTTP Request,200,OK,Thread Group 1-29,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,216,0,1
+1731763197376,216,HTTP Request,200,OK,Thread Group 1-30,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,216,0,0
+1731763197476,223,HTTP Request,200,OK,Thread Group 1-31,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,223,0,1
+1731763197575,218,HTTP Request,200,OK,Thread Group 1-32,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,217,0,1
+1731763197676,222,HTTP Request,200,OK,Thread Group 1-33,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,222,0,1
+1731763197776,214,HTTP Request,200,OK,Thread Group 1-34,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,214,0,1
+1731763197874,223,HTTP Request,200,OK,Thread Group 1-35,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,222,0,1
+1731763197975,215,HTTP Request,200,OK,Thread Group 1-36,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,215,0,1
+1731763198076,213,HTTP Request,200,OK,Thread Group 1-37,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,213,0,0
+1731763198175,220,HTTP Request,200,OK,Thread Group 1-38,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,219,0,1
+1731763198276,212,HTTP Request,200,OK,Thread Group 1-39,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,212,0,0
+1731763198375,215,HTTP Request,200,OK,Thread Group 1-40,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,212,0,0
+1731763198476,209,HTTP Request,200,OK,Thread Group 1-41,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,209,0,1
+1731763198576,209,HTTP Request,200,OK,Thread Group 1-42,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,209,0,0
+1731763198674,220,HTTP Request,200,OK,Thread Group 1-43,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,217,0,1
+1731763198775,221,HTTP Request,200,OK,Thread Group 1-44,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,221,0,1
+1731763198875,213,HTTP Request,200,OK,Thread Group 1-45,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,212,0,1
+1731763198974,205,HTTP Request,200,OK,Thread Group 1-46,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,205,0,1
+1731763199075,215,HTTP Request,200,OK,Thread Group 1-47,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,215,0,1
+1731763199176,208,HTTP Request,200,OK,Thread Group 1-48,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,208,0,0
+1731763199275,241,HTTP Request,200,OK,Thread Group 1-49,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,241,0,0
+1731763199375,236,HTTP Request,200,OK,Thread Group 1-50,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,236,0,1
+1731763199476,211,HTTP Request,200,OK,Thread Group 1-51,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,211,0,1
+1731763199576,224,HTTP Request,200,OK,Thread Group 1-52,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,224,0,0
+1731763199675,218,HTTP Request,200,OK,Thread Group 1-53,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,218,0,0
+1731763199775,205,HTTP Request,200,OK,Thread Group 1-54,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,205,0,1
+1731763199874,219,HTTP Request,200,OK,Thread Group 1-55,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,219,0,1
+1731763199975,213,HTTP Request,200,OK,Thread Group 1-56,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,212,0,1
+1731763200075,213,HTTP Request,200,OK,Thread Group 1-57,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,213,0,1
+1731763200174,209,HTTP Request,200,OK,Thread Group 1-58,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,209,0,1
+1731763200275,204,HTTP Request,200,OK,Thread Group 1-59,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,204,0,1
+1731763200376,218,HTTP Request,200,OK,Thread Group 1-60,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,218,0,0
+1731763200475,216,HTTP Request,200,OK,Thread Group 1-61,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,216,0,0
+1731763200575,207,HTTP Request,200,OK,Thread Group 1-62,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,207,0,1
+1731763200676,217,HTTP Request,200,OK,Thread Group 1-63,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,215,0,1
+1731763200775,277,HTTP Request,200,OK,Thread Group 1-64,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,277,0,2
+1731763200875,358,HTTP Request,200,OK,Thread Group 1-65,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,358,0,1
+1731763200975,322,HTTP Request,200,OK,Thread Group 1-66,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,322,0,1
+1731763201075,315,HTTP Request,200,OK,Thread Group 1-67,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,315,0,0
+1731763201175,350,HTTP Request,200,OK,Thread Group 1-68,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,350,0,1
+1731763201275,388,HTTP Request,200,OK,Thread Group 1-69,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,388,0,0
+1731763201375,338,HTTP Request,200,OK,Thread Group 1-70,text,true,,250,143,4,4,http://localhost:8765/api/measurement/30m/test,338,0,0
+1731763201876,25035,HTTP Request,500,Internal Server Error,Thread Group 1-75,,false,,111,143,30,30,http://localhost:8765/api/measurement/30m/test,25035,0,1
+1731763201574,25352,HTTP Request,200,OK,Thread Group 1-72,text,true,,250,143,29,29,http://localhost:8765/api/measurement/30m/test,25352,0,1
+1731763201475,25454,HTTP Request,200,OK,Thread Group 1-71,text,true,,250,143,28,28,http://localhost:8765/api/measurement/30m/test,25454,0,1
+1731763201975,24961,HTTP Request,500,Internal Server Error,Thread Group 1-76,,false,,111,143,27,27,http://localhost:8765/api/measurement/30m/test,24961,0,1
+1731763202574,24362,HTTP Request,500,Internal Server Error,Thread Group 1-82,,false,,111,143,27,27,http://localhost:8765/api/measurement/30m/test,24362,0,1
+1731763201774,25168,HTTP Request,500,Internal Server Error,Thread Group 1-74,,false,,111,143,25,25,http://localhost:8765/api/measurement/30m/test,25168,0,1
+1731763203173,23776,HTTP Request,500,Internal Server Error,Thread Group 1-88,,false,,111,143,24,24,http://localhost:8765/api/measurement/30m/test,23776,0,1
+1731763201674,25275,HTTP Request,500,Internal Server Error,Thread Group 1-73,,false,,111,143,24,24,http://localhost:8765/api/measurement/30m/test,25275,0,1
+1731763202275,24685,HTTP Request,500,Internal Server Error,Thread Group 1-79,,false,,111,143,22,22,http://localhost:8765/api/measurement/30m/test,24685,0,0
+1731763202175,24794,HTTP Request,500,Internal Server Error,Thread Group 1-78,,false,,111,143,21,21,http://localhost:8765/api/measurement/30m/test,24794,0,0
+1731763202074,24898,HTTP Request,500,Internal Server Error,Thread Group 1-77,,false,,111,143,20,20,http://localhost:8765/api/measurement/30m/test,24898,0,1
+1731763202375,24604,HTTP Request,500,Internal Server Error,Thread Group 1-80,,false,,111,143,19,19,http://localhost:8765/api/measurement/30m/test,24604,0,1
+1731763202774,24219,HTTP Request,500,Internal Server Error,Thread Group 1-84,,false,,111,143,18,18,http://localhost:8765/api/measurement/30m/test,24219,0,1
+1731763202875,24118,HTTP Request,500,Internal Server Error,Thread Group 1-85,,false,,111,143,18,18,http://localhost:8765/api/measurement/30m/test,24118,0,1
+1731763203274,23719,HTTP Request,500,Internal Server Error,Thread Group 1-89,,false,,111,143,18,18,http://localhost:8765/api/measurement/30m/test,23719,0,0
+1731763202975,24018,HTTP Request,500,Internal Server Error,Thread Group 1-86,,false,,111,143,18,18,http://localhost:8765/api/measurement/30m/test,24018,0,0
+1731763203075,23924,HTTP Request,500,Internal Server Error,Thread Group 1-87,,false,,111,143,14,14,http://localhost:8765/api/measurement/30m/test,23924,0,0
+1731763202675,24324,HTTP Request,500,Internal Server Error,Thread Group 1-83,,false,,111,143,14,14,http://localhost:8765/api/measurement/30m/test,24324,0,0
+1731763203374,23625,HTTP Request,500,Internal Server Error,Thread Group 1-90,,false,,111,143,14,14,http://localhost:8765/api/measurement/30m/test,23625,0,1
+1731763202475,24524,HTTP Request,500,Internal Server Error,Thread Group 1-81,,false,,111,143,14,14,http://localhost:8765/api/measurement/30m/test,24524,0,1
+1731763203875,23499,HTTP Request,200,OK,Thread Group 1-95,text,true,,250,143,10,10,http://localhost:8765/api/measurement/30m/test,23499,0,0
+1731763204174,23253,HTTP Request,200,OK,Thread Group 1-98,text,true,,250,143,9,9,http://localhost:8765/api/measurement/30m/test,23246,0,1
+1731763203574,23853,HTTP Request,200,OK,Thread Group 1-92,text,true,,250,143,9,9,http://localhost:8765/api/measurement/30m/test,23853,0,1
+1731763204074,23371,HTTP Request,200,OK,Thread Group 1-97,text,true,,250,143,7,7,http://localhost:8765/api/measurement/30m/test,23371,0,1
+1731763203674,23771,HTTP Request,200,OK,Thread Group 1-93,text,true,,250,143,7,7,http://localhost:8765/api/measurement/30m/test,23771,0,1
+1731763204273,23176,HTTP Request,200,OK,Thread Group 1-99,text,true,,250,143,5,5,http://localhost:8765/api/measurement/30m/test,23176,0,1
+1731763203475,23975,HTTP Request,200,OK,Thread Group 1-91,text,true,,250,143,5,5,http://localhost:8765/api/measurement/30m/test,23975,0,1
+1731763203775,23684,HTTP Request,200,OK,Thread Group 1-94,text,true,,250,143,3,3,http://localhost:8765/api/measurement/30m/test,23684,0,0
+1731763204375,23085,HTTP Request,200,OK,Thread Group 1-100,text,true,,250,143,2,2,http://localhost:8765/api/measurement/30m/test,23084,0,1
+1731763203975,23493,HTTP Request,200,OK,Thread Group 1-96,text,true,,250,143,1,1,http://localhost:8765/api/measurement/30m/test,23493,0,1
